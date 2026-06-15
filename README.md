@@ -8,4 +8,4 @@
 
 ### 🔗 Connect
 
-[LinkedIn](https://www.linkedin.com/in/mdarke/) · [Website](https://mange.sh) · [Email](mailto:hello@mang.sh?subject=Hi%2C%20Mangesh%20%F0%9F%91%8B)
+<a href="https://www.linkedin.com/in/mdarke/" target="_blank">LinkedIn</a> · <a href="https://mange.sh" target="_blank">Website</a> · <a href="mailto:hello@mange.sh?subject=Hi%2C%20Mangesh%20%F0%9F%91%8B">Email</a>
