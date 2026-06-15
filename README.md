@@ -8,4 +8,4 @@
 
 ### 🔗 Connect
 
-[LinkedIn](https://www.linkedin.com/in/mdarke/) · [Website](https://mange.sh) · [Email](mailto:hello@mang.sh)
+[LinkedIn](https://www.linkedin.com/in/mdarke/) · [Website](https://mange.sh) · [Email](mailto:hello@mang.sh?subject=Hi%2C%20Mangesh%20%F0%9F%91%8B)
